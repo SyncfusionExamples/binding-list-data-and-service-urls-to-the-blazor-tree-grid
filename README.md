@@ -1,6 +1,6 @@
-# Binding List Data and Service URLs to the Blazor TreeGrid
+# Binding List Data and Service URLs to the Blazor Tree Grid
 
-A quick-start project that helps you to bind list data and service URLs to a Syncfusion Blazor TreeGrid in a Blazor WebAssembly application. In this example, you’ll learn how to bind local list data that has hierarchical relationships and service URLs from a remote server to the Syncfusion Blazor TreeGrid.
+A quick-start project that helps you to bind list data and service URLs to a Syncfusion Blazor Tree Grid in a Blazor WebAssembly application. In this example, you’ll learn how to bind local list data that has hierarchical relationships and service URLs from a remote server to the Syncfusion Blazor Tree Grid.
 
 Watch the video now: Coming soon...
 
@@ -13,7 +13,7 @@ Make sure you have the compatible version of .NET Core on your machine before st
 * [.NET Core SDK 3.1.3+](https://dotnet.microsoft.com/download/dotnet-core/3.1)
 
 ## How to run this application
-To run this application, you need to first clone or download the ‘binding list data and service urls to the blazor treegrid’ repository and then open it in Visual Studio 2019. Now, build and run your project to view the output.
+To run this application, you need to first clone or download the ‘binding list data and service urls to the blazor tree grid’ repository and then open it in Visual Studio 2019. Now, build and run your project to view the output.
 
 ## Further help
 
