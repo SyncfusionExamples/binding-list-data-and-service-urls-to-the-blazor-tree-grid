@@ -2,7 +2,7 @@
 
 A quick-start project that helps you to bind list data and service URLs to a Syncfusion Blazor Tree Grid in a Blazor WebAssembly application. In this example, you’ll learn how to bind local list data that has hierarchical relationships and service URLs from a remote server to the Syncfusion Blazor Tree Grid.
 
-Watch the video now: Coming soon...
+Watch the video now: https://www.syncfusion.com/tutorial-videos/blazor/tree-grid?title=binding-list-data-and-service-urls-to-the-blazor-tree-grid
 
 Documentation: https://blazor.syncfusion.com/documentation/treegrid/getting-started
 Online example: https://blazor.syncfusion.com/demos/TreeGrid/DefaultFunctionalities 
