@@ -2,7 +2,7 @@
 
 ## Overview
 
-This sample demonstrates how to bind data to the Syncfusion [Blazor TreeGrid](https://www.syncfusion.com/blazor-components`) component in a hosted Blazor WebAssembly application. The example showcases two common data-binding approaches: binding hierarchical records from a local collection and retrieving data from remote service endpoints. These approaches help developers understand how to display and manage hierarchical business data using both client-side and server-backed sources within the same application architecture.
+This sample demonstrates how to bind data to the Syncfusion [Blazor TreeGrid](https://www.syncfusion.com/blazor-components/blazor-tree-grid) component in a hosted Blazor WebAssembly application. The example showcases two common data-binding approaches: binding hierarchical records from a local collection and retrieving data from remote service endpoints. These approaches help developers understand how to display and manage hierarchical business data using both client-side and server-backed sources within the same application architecture.
 
 **Watch the video now**: https://www.syncfusion.com/tutorial-videos/blazor/tree-grid?title=binding-list-data-and-service-urls-to-the-blazor-tree-grid
 
